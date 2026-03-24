@@ -1,0 +1,46 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Modelos treinados
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# Banco de dados
+datasets/nautical.db
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+dist/
+build/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+.cache/
+
+# Variáveis de ambiente
+.env
+.env.local
