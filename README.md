@@ -12,7 +12,7 @@ deactivate
 ```bash
 jupyter lab
 ```
-``bash
+```bash
 pip install plotly ipywidgets tqdm
 pip install pandas numpy matplotlib prophet scikit-learn
 ```
